@@ -1,5 +1,5 @@
 # ARENA BATTLE TANKS
-ARENA BATTLE TANKS é um simulador de guerra entre tanques, feito na linguagem Java. Esse é um projeto da universidade CESUPA(Centro Universitário do Estado do Pará), da matéria de PROGRAMACAO ORIENTADA A OBJETOS, com o objetivo de aprimorar as habilidades e capacidades técnicas dos alunos, acerca do conhecimento profissional e estudantil. O jogo tem a intenção de proporcionar ao usuário uma simulação estratégica de batalha de tanques.
+ARENA BATTLE TANKS é um simulador de guerra entre tanques, feito na linguagem Java. Esse é um projeto da universidade CESUPA (Centro Universitário do Estado do Pará), da matéria de PROGRAMACAO ORIENTADA A OBJETOS, com o objetivo de aprimorar as habilidades e capacidades técnicas dos alunos, acerca do conhecimento profissional e estudantil. O jogo tem a intenção de proporcionar ao usuário uma simulação estratégica de batalha de tanques.
 
 ![WarThunderMemeSpinTankGIF](https://github.com/user-attachments/assets/cfc802c9-f23a-4785-9fec-81778dd7352c)
 
