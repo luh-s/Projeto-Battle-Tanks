@@ -6,7 +6,7 @@ ARENA BATTLE TANKS é um simulador de guerra entre tanques, feito na linguagem J
 (IMAGEM MERAMENTE ILUSTRATIVA :) )
 
 # Pre requisitos📍
-É necessario a utilização de algum aplicativo que proporcione a compilação do código na linguagem Java (Visual Studio Code recomendado), no visual code é necessário o download do Java Extension Pack para compilação do código.
+É necessario a utilização de algum Ambiente de Desenvolvimento Integrado que proporcione a compilação do código na linguagem Java (Visual Studio Code recomendado), no visual code é necessário o download do Java Extension Pack para compilação do código.
 
 # instruções para instalação📍
 Visual Studio Code: Acesse a página do Visual Studio Code no seu navegador e faça o download do Ambiente de Desenvolvimento Integrado, feito a instalção do aplicatico e as devidas configurações iniciais (permissões e etc), faça o download do (Java Extension Pack) na aba de "extensões" na lateral esquerda da IDE, ela será responsavel por executar o código no terminal. No github e faça o download do arquivo "Projeto.zip", para executa-lo clique na opção de abrir arquivo, selecione o arquivo "UNSOLVED.C" e siga os passos da aba de instrução de uso
