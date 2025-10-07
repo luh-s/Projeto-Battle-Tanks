@@ -13,7 +13,7 @@ O jogo tem a intenção de proporcionar ao usuário uma simulação estratégica
 Visual Studio Code: Acesse a página do Visual Studio Code no seu navegador e faça o download do Ambiente de Desenvolvimento Integrado, feito a instalção do aplicatico e as devidas configurações iniciais (permissões e etc), faça o download do (Java Extension Pack) na aba de "extensões" na lateral esquerda da IDE, ela será responsavel por executar o código no terminal.
 
 # INSTRUÇÃO DE USO📍
-Visual Studio Code: Baixe o arquivo "Projeto.zip" disponibilizado no github, descompacte o arquivo no VSCODE com as extenções necessárias já instaladas (mostradas em INTRUÇÃO PARA INSTALAÇÃO) para que seja possível executar no terminal da IDE, com as etapas anteriores concluídas, utilize do botãos de execução do canto superior direito e aproveite a experiência!.
+Visual Studio Code: Baixe o arquivo "Projeto.zip" disponibilizado no github, descompacte o arquivo no VSCODE com as extenções necessárias já instaladas (mostradas em INTRUÇÃO PARA INSTALAÇÃO) para que seja possível executar no terminal da IDE, com as etapas anteriores concluídas, utilize do botãos de execução do canto superior direito e aproveite a experiência!
 
 # LICENÇAS✔
 Permissão somente para uso educacional.
