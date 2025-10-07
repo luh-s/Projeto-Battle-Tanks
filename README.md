@@ -12,8 +12,7 @@ ARENA BATTLE TANKS é um simulador de guerra entre tanques, feito na linguagem J
 Visual Studio Code: Acesse a página do Visual Studio Code no seu navegador e faça o download do Ambiente de Desenvolvimento Integrado, feito a instalção do aplicatico e as devidas configurações iniciais (permissões e etc), faça o download do (Java Extension Pack) na aba de "extensões" na lateral esquerda da IDE, ela será responsavel por executar o código no terminal. No github e faça o download do arquivo "Projeto.zip", para executa-lo clique na opção de abrir arquivo, selecione o arquivo "UNSOLVED.C" e siga os passos da aba de instrução de uso
 
 # INSTRUÇÃO DE USO📍
-Visual Studio Code: Baixe o arquivo "Projeto.zip" disponibilizado no github, descompacte o arquivo no VSCODE com as extenções necessárias já instaladas (mostradas em INTRUÇÃO PARA INSTALAÇÃO) para o código conseguir ser executado no prompt de comando, com as etapas anteriores concluídas, aperte a tecla "F8" e se divirta com o UNSOLVED.
-Falcon:Baixe o arquivo "UNSOLVED.C" disponibilizado no github, no Falcon C++, clique na opção arquivo no canto superior da tela e selecione a opção "abrir", clique no botão de execução e se divirta com o UNSOLVED.
+Visual Studio Code: Baixe o arquivo "Projeto.zip" disponibilizado no github, descompacte o arquivo no VSCODE com as extenções necessárias já instaladas (mostradas em INTRUÇÃO PARA INSTALAÇÃO) para que seja possível executar no terminal da IDE, com as etapas anteriores concluídas, utilize do botãos de execução do canto superior direito e aproveite a experiência!.
 
 # LICENÇAS✔
 Permissão somente para uso educacional.
